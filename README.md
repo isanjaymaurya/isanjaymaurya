@@ -13,7 +13,7 @@
 ```javascript
 const sanjay = {
     pronouns: "He" | "Him",
-    website: "https://arpit-absyadav.github.io",
+    website: "https://isanjaymaurya.github.io",
     code: ["Javascript", "Typescript", "Python", "PHP"],
     askMeAbout: ["Web Dev", "Mobile Apps", "Technologies", "Cloud & Software Architecture",],
     technologies: {
