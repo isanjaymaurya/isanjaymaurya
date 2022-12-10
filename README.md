@@ -2,7 +2,7 @@
 
 <!-- <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230"> -->
 <p>
-  <em>Software Engineer at <a href="http://isanjaymaurya.github.io">Freelance</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+  <em>Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 </em>
 </p>
 <a href="https://github.com/antonkomarev/github-profile-views-counter">
