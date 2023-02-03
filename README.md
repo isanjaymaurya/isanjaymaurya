@@ -72,10 +72,6 @@ Debian                      █████████████████�
 
 ```
 <br />
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isanjaymaurya&layout=compact&hide=php,c,html,roff&langs_count=10" alt="isanjaymaurya" />
-</p>
-
 
 ### Languages and Tools:
 
