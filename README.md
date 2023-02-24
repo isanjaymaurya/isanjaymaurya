@@ -47,55 +47,7 @@ const sanjay = {
 [![resume](https://img.shields.io/badge/Download_Resume-46a2f1.svg?&style=for-the-badge&logo=Google-Chrome&logoColor=white&link=https://github.com/isanjaymaurya/resume/raw/master/Sanjay%20Maurya.pdf/)](https://github.com/isanjaymaurya/resume/raw/master/Sanjay%20Maurya.pdf/)
 
 <br />
-<br />
 
-
-
-```text
-⌚︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages / Frameworks / Technologies:
-JavaScript                  ██████████████████████░░░   90%
-TypeScript                  ████████████░░░░░░░░░░░░░   50%
-REACT                       █████████████████████░░░░   80%
-NextJs                      ███████████████████░░░░░░   75%
-AWS                         █████████░░░░░░░░░░░░░░░░   30%
-MySql                       ███████████████░░░░░░░░░░   65%
-
-
-🔥 Editors:
-Vs Code                     █████████████████████████   100.0%
-
-
-💻 Operating System:
-Debian                      █████████████████████░░░░   80.0%
-
-```
-<br />
-
-### Languages and Tools:
-
-<img align="left" alt="Visual Studio Code" width="110px" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-<img align="left" alt="React" width="100px" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img align="left" alt="JavaScript" width="140px" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-
-<br/>
-<br/>
-<section>
-<img align="left" alt="Mysql" width="100px" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-<img align="left" alt="Mongo" width="128px" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-<img align="left" alt="GitLab" width="108px" src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" />
-<img align="left" alt="Github" width="108px" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-<img align="left" alt="Bootstrap" width="138px" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-</section>
-<br/>
-<br/>
-<section>
-<img align="left" alt="Debian" width="111px" src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" />
-<img align="left" alt="vscode" width="227px" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-<img align="left" alt="AWS" width="160px" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-</section>
-<br />
 <br />
 <br />
 <br />
