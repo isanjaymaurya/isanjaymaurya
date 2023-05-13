@@ -9,34 +9,6 @@
     <img src="https://komarev.com/ghpvc/?username=isanjaymaurya&style=for-the-badge">
 </a>
 
-
-```javascript
-const sanjay = {
-    pronouns: "He" | "Him",
-    website: "https://isanjaymaurya.github.io",
-    code: ["Javascript", "Typescript", "Python", "PHP"],
-    askMeAbout: ["Web Dev", "Mobile Apps", "Technologies", "Cloud & Software Architecture",],
-    technologies: {
-        mobileApp: ["React Native"],
-        backEnd: {
-            js: ["NodeJs", "ExpressJs"],
-            php: ["Laravel"],
-            python: ["Django"]
-        },
-        frontEnd: {
-            js: ["React", "NextJs", "Svelte", "AngularJs",],
-            css: ["Bootstrap", "Tailwind"]
-        },
-        devOps: ["AWS", "Docker🐳",  "CI/CD", "Heroku", "Nginx"],
-        databases: ["MySql", "PostgreSql", "Sqlite", "Redis"],
-        misc: ["Firebase", "Socket.IO"]
-    },
-    editors:["VS Code", "PyCharm"],
-    os:["Debian", "Ubuntu"],
-    architecture: ["Microservice", "Serverless", "PWA", "SPA"],
-    currentFocus: "ReactJs and NodeJs"
-};
-```
 ### Connect with me:
 
 
