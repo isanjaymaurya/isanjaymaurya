@@ -15,8 +15,6 @@
 
 [![Linkedin: SanjayMaurya](https://img.shields.io/badge/-sanjaymaurya-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sanjay-maurya-0a63221b1/)](https://www.linkedin.com/in/sanjay-maurya-0a63221b1/)
 [![Github: Followers](https://img.shields.io/badge/-isanjaymaurya-blue?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/isanjaymaurya/)](https://github.com/isanjaymaurya/)
-[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=for-the-badge&logo=Google-Chrome&logoColor=white&link=https://isanjaymaurya.github.io//)](https://isanjaymaurya.github.io//)
-[![resume](https://img.shields.io/badge/Download_Resume-46a2f1.svg?&style=for-the-badge&logo=Google-Chrome&logoColor=white&link=https://github.com/isanjaymaurya/resume/raw/master/Sanjay%20Maurya.pdf/)](https://github.com/isanjaymaurya/resume/raw/master/Sanjay%20Maurya.pdf/)
 
 <br />
 
