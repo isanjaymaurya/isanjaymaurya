@@ -14,7 +14,6 @@
 
 
 [![Linkedin: SanjayMaurya](https://img.shields.io/badge/-sanjaymaurya-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sanjay-maurya-0a63221b1/)](https://www.linkedin.com/in/sanjay-maurya-0a63221b1/)
-[![Github: Followers](https://img.shields.io/badge/-isanjaymaurya-blue?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/isanjaymaurya/)](https://github.com/isanjaymaurya/)
 
 <br />
 
