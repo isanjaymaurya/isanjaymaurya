@@ -18,9 +18,6 @@
 
 <br />
 
-<br />
-<br />
-<br />
 
 
 <img align="left" alt="Sanjay's Github Stats" src="https://github-readme-stats.vercel.app/api?username=isanjaymaurya&show_icons=true&hide_border=true" />
