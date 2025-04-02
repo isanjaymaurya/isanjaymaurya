@@ -5,10 +5,6 @@
   <em>Programmer/Coder</em>
 </p>
 
-<a href="https://github.com/antonkomarev/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=isanjaymaurya&style=for-the-badge">
-</a>
-
 ### Connect with me:
 
 [![Linkedin: Linkedin - Sanjay Maurya](https://img.shields.io/badge/-sanjaymaurya-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/isanjaymaurya/)](https://www.linkedin.com/in/isanjaymaurya/)
