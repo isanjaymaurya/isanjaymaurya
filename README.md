@@ -1,6 +1,7 @@
-<h2>नमस्ते (Namaste)🙏🏻, I'm Sanjay Maurya! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<h2>
+  नमस्ते (Namaste)🙏🏻, I'm Sanjay Maurya! <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExamV3N2NweTN1dmIxYjNjaGloOTRlcDF0bDNkOHVhNm9jYzNrc3lieCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/l0IxYVIrqCXzvKpYQ/giphy.gif" width="50">
+</h2>
 
-<!-- <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230"> -->
 <p>
   <em>Problem Solver</em>
 </p>
