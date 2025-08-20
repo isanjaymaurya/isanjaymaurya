@@ -3,7 +3,7 @@
 </h2>
 
 <p>
-  <em>Problem Solver</em>
+  <em>I Love to build things, and solve problems.</em>
 </p>
 
 ### Connect with me:
