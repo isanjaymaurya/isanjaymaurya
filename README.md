@@ -1,14 +1,26 @@
-<h2>
-  नमस्ते (Namaste)🙏🏻, I'm Sanjay Maurya! <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExamV3N2NweTN1dmIxYjNjaGloOTRlcDF0bDNkOHVhNm9jYzNrc3lieCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/l0IxYVIrqCXzvKpYQ/giphy.gif" width="50">
-</h2>
+### Hi there, I'm Sanjay👦,
+A Full Stack Web developer🎯 and designer🎨 from India.
 
-<p>
-  <em>I Love to build things, and solve problems.</em>
+- 👨‍💻 Full Stack Developer
+- 📚 What do I believe? Jack of all, Master of some.
+- 📫 How to reach me: [Instagram](https://instagram.com/isanjaymaurya) - [@Piyush_eon](https://instagram.com/isanjaymaurya) or [@RoadsideCoder](https://instagram.com/isanjaymaurya)
+
+**Languages:**  
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
+
+<h3> 🤝🏻 Connect with Me </h3>
+
+<p align="center">
+ <!-- <a href="https://www.adityavsingh.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a> -->
+<a href="https://www.linkedin.com/in/isanjaymaurya/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Sanjay%20Maurya-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.instagram.com/sanjaymaurya__/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-isanjaymaurya-blue?style=flat-square&logo=instagram"></a>
+<a href="mailto:its.sanjaymaurya@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-its.sanjaymaurya@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
-### Connect with me:
-
-[![Linkedin: Linkedin - Sanjay Maurya](https://img.shields.io/badge/-sanjaymaurya-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/isanjaymaurya/)](https://www.linkedin.com/in/isanjaymaurya/)
-
-
-
+ <!--⭐️ From [Sanjay Maurya](https://github.com/isanjaymaurya)-->
