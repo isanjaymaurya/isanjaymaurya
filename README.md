@@ -3,7 +3,6 @@ A Full Stack Web developer🎯 and designer🎨 from India.
 
 - 👨‍💻 Full Stack Developer
 - 📚 What do I believe? Jack of all, Master of some.
-- 📫 How to reach me: [Instagram](https://instagram.com/isanjaymaurya) - [@SanjayMaurya__](https://instagram.com/isanjaymaurya)
 
 **Languages:**  
 
